@@ -90,7 +90,7 @@
             <div>
                 <p>¿No tienes una cuenta?</p>
                 <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
-                <p on:click={handleRegister} on:keydown={() => {}}>Registrar</p>
+                <p on:click={handleRegister} on:keydown={() => {}}>Registrate</p>
             </div>
         {/if}
     </div>
