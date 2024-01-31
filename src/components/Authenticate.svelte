@@ -83,7 +83,7 @@
                 <p>¿Ya tienes una cuenta?</p>
                 <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
                 <p on:click={handleRegister} on:keydown={() => {}}>
-                    Inicia Sesión HOLA ERIVE 5
+                    Inicia Sesión
                 </p>
             </div>
         {:else}
